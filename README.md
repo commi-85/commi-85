@@ -1,6 +1,6 @@
 - 👋 Salut, je m'appelle Arona SANGHARE 
-- 👀 Je suis intéressé par le developement web
-- 🌱 J'apprends actuellement le developement web avec GOMYCODE
+- 👀 Je suis intéressé par le developpement web
+- 🌱 J'apprends actuellement le developpement web avec GOMYCODE
 - 💞️ Je cherche à collaborer sur des projets de creation de site et d'application web
 - 📫 Comment me joindre email: sangharearona@gmail.com
 
